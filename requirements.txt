@@ -5,4 +5,4 @@ requests
 folium
 streamlit-folium
 matplotlib
-sickit-learn
+scikit-learn
