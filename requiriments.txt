@@ -3,4 +3,4 @@ pandas
 numpy
 requests
 folium
-streamlit-folium
+streamlit_folium
